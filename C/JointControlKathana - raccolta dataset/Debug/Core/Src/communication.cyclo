@@ -1,0 +1,4 @@
+communication.c:24:6:floating_point_converter	1
+communication.c:43:6:decapsulationPacket	1
+communication.c:55:6:encapsulationPacket	1
+communication.c:61:6:getAction	32

@@ -1,0 +1,4 @@
+../Core/Src/communication.c:24:6:floating_point_converter	40	static
+../Core/Src/communication.c:43:6:decapsulationPacket	24	static
+../Core/Src/communication.c:55:6:encapsulationPacket	16	static
+../Core/Src/communication.c:61:6:getAction	24	static
